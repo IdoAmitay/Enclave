@@ -1,4 +1,4 @@
-# Enclave
+# ZKP over intel SGX
 Final project
 
 installation guide:
