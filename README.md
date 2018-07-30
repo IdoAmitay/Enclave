@@ -19,6 +19,8 @@ Remove with rmmod maK_it
 
 
 OUTPUT
+
+
 insmod maK_it.ko Message from syslogd@localhost at Nov 25 17:36:13 ... kernel:Syscall Table Address: c08532b0
 
 Message from syslogd@localhost at Nov 25 17:36:13 ... kernel:Syscall Table old write address: c0537520
