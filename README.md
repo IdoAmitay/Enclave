@@ -18,21 +18,25 @@ SGX simulation mode much harder than we initially expected.
 
 
 • In our project, we create a game that demonstrate the use of zeroknowledge
-proofs.
+  proofs.
 • The game:
+
   o Imagine that you hold two balls in front of a colorblind person,
     one blue and the other red.
     You want to prove the colorblind person that you can distinguish
     between those two balls.
     A colorblind person can’t tell the difference between “red” and
     “blue”.
+    
   o Let’s play a little game:
     let the colorblind person take the balls, put them behind his back
     and shuffle as much as he likes.
     He then show you the balls and you will determine if he had
     change their order or not.
+    
   o We’ll repeat this experiment 42 times to make it more accurate in
     terms of probability.
+    
   o The colorblind person understands that it’s almost impossible to
     guess the correct answer 42 times in a row (2
     -42 ) so he should be
