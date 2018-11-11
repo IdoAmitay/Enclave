@@ -57,7 +57,7 @@ in order to run the program: open enclave2.sln and just run
 
 Syscall-table-hijack
 
-This demonstrates the hijacking of the "write" system call and how to set the System Call table to read/write mode via modifying the correct cr0 bit.
+This attack demonstrates the hijacking of the "write" system call and how to set the System Call table to read/write mode via modifying the correct cr0 bit.
 
 Install with insmod maK_it.ko
 
